@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DashboardGaugeStyle.qml</file>
+        <file>ValueSource.qml</file>
+        <file>Atpbutton.qml</file>
+        <file>images/toolbutton.sci</file>
+        <file>images/toolbutton.png</file>
+        <file>SpeedView.qml</file>
+        <file>QChart.js</file>
+        <file>QChartGallery.js</file>
+        <file>QChart.qml</file>
+        <file>DateInput.qml</file>
+        <file>DataShow.qml</file>
+        <file>CurrentTime.qml</file>
+    </qresource>
+</RCC>
